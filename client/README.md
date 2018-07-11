@@ -1,9 +1,10 @@
 Shopping Cart Test
 
-This client side react app generated with `create-react-app`
+PreRequisits:
+Node and Npm
 
-
-Navigate to the root/project directory, run the below commands:
+Once you clone this repo, Please go the root(client) directory
+In the project directory, run the below commands:
 
 ## `npm install / yarn install`
 
