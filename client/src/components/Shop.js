@@ -14,7 +14,7 @@ class Shop extends React.Component {
       console.log(items);
       return(
         <div className='shop'>
-          <h1 className='main-header shop-header'>Sample Shopping Cart</h1>
+          <h1 className='main-header shop-header'>Mini Shopping Cart</h1>
           <ShopItems items={this.props.mappedProductsState} />
         </div>
       );
