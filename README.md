@@ -20,7 +20,7 @@ In the server directory, run
   To test it, you can just type (http://localhost:3001/) in the browser's URL
 
 Also, You can test the api to fetch allproducts
-  ### http://localhost:3001/api
+   http://localhost:3001/api
 
 
 
@@ -29,7 +29,8 @@ In the client directory, run
 $ npm install / yarn install
 $ npm start / yarn start
 ````
-Now, your client app will be run on (http://localhost:3000)
+Now, your client app will run on (http://localhost:3000)
+
 
 
 
