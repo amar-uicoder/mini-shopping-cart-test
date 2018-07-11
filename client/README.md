@@ -4,8 +4,8 @@ PreRequisits:
 
 ### `Node and Npm`
 
-Once you clone this repo, Please go the root(client) directory
-In the project directory, run the below commands:
+Once you clone this repo, In the client(root) directory and 
+run below commands:
 
 ## `npm install / yarn install`
 
