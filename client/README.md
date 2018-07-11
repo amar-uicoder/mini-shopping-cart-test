@@ -1,7 +1,8 @@
 Shopping Cart Test
 
 PreRequisits:
-Node and Npm
+
+### `Node and Npm`
 
 Once you clone this repo, Please go the root(client) directory
 In the project directory, run the below commands:
