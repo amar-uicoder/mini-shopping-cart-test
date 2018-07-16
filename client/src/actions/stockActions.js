@@ -1,5 +1,5 @@
 import * as types from '../constants/ActionTypes';
-const apiUrl = 'http://localhost:3001/api';
+const apiUrl = '/api/';
 
 const receiveProducts = (products) => ({
   type: types.RECEIVE_PRODUCTS,

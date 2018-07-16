@@ -6,10 +6,11 @@ class Shop extends React.Component {
       super(props);
     }
 
-    componentWillMount() {
-      this.props.fetchProducts();
+    componentDidMount() {
+      if(this.props.mappedProductsState.length == 0)
+        this.props.fetchProducts();
     }
-    render(){
+    render(){ 
       const items = this.props.mappedProductsState;
       console.log(items);
       return(
